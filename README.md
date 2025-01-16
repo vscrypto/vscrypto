@@ -20,3 +20,4 @@ Add new utility script
 Improve performance
 Rewrite function Y
 Optimize loop
+Improve logging
