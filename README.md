@@ -21,3 +21,4 @@ Improve performance
 Rewrite function Y
 Optimize loop
 Improve logging
+Change theme color
