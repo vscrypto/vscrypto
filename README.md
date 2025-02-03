@@ -24,3 +24,4 @@ Improve logging
 Change theme color
 Update dependencies
 Update dependencies
+Fix typo in README
