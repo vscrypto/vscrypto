@@ -27,3 +27,4 @@ Update dependencies
 Fix typo in README
 Fix bug in feature X
 Fix bug in feature X
+Improve logging
