@@ -25,3 +25,4 @@ Change theme color
 Update dependencies
 Update dependencies
 Fix typo in README
+Fix bug in feature X
